@@ -3,7 +3,7 @@
 Pokemon FireRed Maps Download for Tiled
 
 ## Pallet Town
-![Pallet Town](https://raw.githubusercontent.com/sochi2008/pokemon-firered-image/main/Pallet%20Town.png?token=GHSAT0AAAAAABXBWDGQESDQSS7EGM2W5LI4YXW36IQ)
+![Pallet Town](https://github.com/sochi2008/pokemon-firered-image/blob/main/Pallet%20Town.png?raw=true)
 
 ## Route 01
-![Route 01](https://raw.githubusercontent.com/sochi2008/pokemon-firered-image/main/Route%2001.png?token=GHSAT0AAAAAABXBWDGROI5JPLE5TL33RGGCYXW4FXA)
+![Route 01](https://github.com/sochi2008/pokemon-firered-image/blob/main/Route%2001.png?raw=true)
