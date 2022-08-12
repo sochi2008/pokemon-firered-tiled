@@ -1,3 +1,3 @@
 # pokemon-firered-tiled
 
-Pokemon FireRed Maps Download in Tiled
+Pokemon FireRed Maps Download for Tiled
